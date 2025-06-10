@@ -109,3 +109,4 @@
 
 <?php include 'partials/themeswitcher.php' ?>
 <?php include 'partials/icons.php' ?>
+<?php include 'partials/navbar.php' ?>
